@@ -8,6 +8,4 @@
 
 
 Thank you. i did this in hurry. so that i use simple and try sortcuts.
- i user server side datatable whit their pagination ans serch, and its take lots time to implete. 
-
 
